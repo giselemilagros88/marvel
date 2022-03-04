@@ -19,7 +19,7 @@
 <body>
     <!-- Empieza header -->
     <header class="navbar navbar-expand-xl container-fluid" id="header">
-        <a class="navbar-brand" href="../index.html"><i class="fas fa-house-user"></i></a>
+        <a class="navbar-brand" href="../index.php"><i class="fas fa-house-user"></i></a>
         <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
